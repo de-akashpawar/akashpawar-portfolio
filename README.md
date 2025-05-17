@@ -61,7 +61,7 @@ June 2012 – May 2015
 ## Contact
 - **Email**: [de.akashpawar@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/de-akashpawar/]
-- **GitHub**: [github.com/de-akashpawar]
+- **GitHub**: [https://github.com/de-akashpawar/]
 - **Portfolio**: [https://github.com/de-akashpawar/akashpawar-portfolio/]
 
 I am available to relocate internationally and welcome opportunities to discuss how my skills can contribute to your team. Thank you for visiting my portfolio!
