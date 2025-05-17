@@ -19,7 +19,7 @@ Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer.
 - **Skills**: Solid Edge 2D Nesting, Material Optimization, Cost Reduction
 
 ### Animal Feed Machinery Fabrication (S S Engineers, 2019–2020)
-![Conveyor System](images/conveyor_photo.jpg)
+![Cattle Feed Machinery](images/machinery_photo.jpg)
 - **Description**: Designed and fabricated a conveyor system for an industrial client using AutoCAD for 2D drafting. Delivered on time. Managed procurement to achieve [10]% cost savings.
 - **Skills**: AutoCAD, Fabrication, Project Management
 
