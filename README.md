@@ -14,7 +14,6 @@ Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer.
 - **Skills**: Solid Edge, AutoCAD, 2D Drafting, 3D Modeling, Design for Manufacturing
 
 ### Material Optimization (Trans-Mech Systems, Feb 2024 – Present)
-![Nesting Layout](images/nesting_layout.png)
 ![Nesting Layout](nesting_layout.png)
 
 - **Description**: Optimized plate utilization for infielder chassis components using Solid Edge 2D nesting, achieving [10]% waste reduction and lowering production costs.
