@@ -10,6 +10,7 @@ Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer.
 
 ### Tractor attachments Design (Trans-Mech Systems, Feb 2024 – Present)
 ![Tractor Chassis 3D Model](Tractor Chassis 3D Model.png)
+![Nesting Layout](Tractor Chassis 3D Model.png)
 - **Description**: Designed a front-end loader, front-end dozer, tractor chassis for sugercane infielder for agricultural tractors using Solid Edge for 3D modeling and AutoCAD for 2D drafting. Ensured compliance with industry standards and collaborated with manufacturing teams.
 - **Skills**: Solid Edge, AutoCAD, 2D Drafting, 3D Modeling, Design for Manufacturing
 
