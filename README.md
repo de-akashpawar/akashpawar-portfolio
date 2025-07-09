@@ -21,7 +21,7 @@ Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer.
 
 ### Animal Feed Machinery Fabrication (S S Engineers, 2019–2020)
 ![Cattle Feed Machinery](Maka_Bharda_Plant_Machineries.jpg)
-- **Description**: Designed and fabricated a conveyor system for an industrial client using AutoCAD for 2D drafting. Delivered on time. Managed procurement to achieve [10]% cost savings.
+- **Description**: Designed and fabricated a Maka Bharda (Corn Powder) Plant Machinery with conveyor system (Blower) for a client. Delivered on time. Managed procurement to achieve [10]% cost savings.
 - **Skills**: AutoCAD, Fabrication, Project Management
 
 ### Assistant Professor/ Assistant Training & Placement Officer (Assistant Professor, 2021–2022)
