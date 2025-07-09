@@ -2,7 +2,7 @@
 
 # Akash Santosh Pawar - Mechanical Design Engineer Portfolio
 
-Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer. I specialize in 2D drafting, 3D modeling, and fabrication, with proficiency in AutoCAD, BricsCAD, and Solid Edge. With 1.4 years of experience at Trans-Mech Systems, 3 years running S S Engineers, and 9 months as an Assistant Professor, I bring a unique blend of design, manufacturing, and teaching skills. I hold a Master’s in Mechanical Design Engineering (CGPA 8.08) and am eager to contribute to global engineering projects, with a willingness to relocate internationally.
+Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer. I specialize in 2D drafting, 3D modeling, and fabrication, with proficiency in AutoCAD, BricsCAD, and Solid Edge. With 1.5 years of experience at Trans-Mech Systems, 3 years running S S Engineers, and 9 months as an Assistant Professor, I bring a unique blend of design, manufacturing, and teaching skills. I hold a Master’s in Mechanical Design Engineering (CGPA 8.08) and am eager to contribute to global engineering projects, with a willingness to relocate internationally.
 
 ---
 
