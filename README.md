@@ -19,7 +19,7 @@ Welcome to my portfolio showcasing my expertise as a Mechanical Design Engineer.
 - **Description**: Optimized plate utilization for infielder chassis components using Solid Edge 2D nesting, achieving [10]% waste reduction and lowering production costs.
 - **Skills**: Solid Edge 2D Nesting, Material Optimization, Cost Reduction
 
-### Animal Feed Machinery Fabrication (S S Engineers, 2019–2020)
+### Animal Feed Machinery Fabrication (S S Engineers, 2019–2023)
 ![Cattle Feed Machinery](Maka_Bharda_Plant_Machineries.jpg)
 - **Description**: Designed and fabricated a Maka Bharda (Corn Powder) Plant Machinery with conveyor system (Blower) for a client. Delivered on time. Managed procurement to achieve [10]% cost savings.
 - **Skills**: AutoCAD, Fabrication, Project Management
